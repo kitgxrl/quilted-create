@@ -1,0 +1,16 @@
+name = "Quilted Create"
+author = "Rain"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5a2e32c98009a0f2de306a37d83b6f06cb5f79dc419e0485a839980f09a16ff6"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.0-beta.13"
+
+[options]
+acceptable-game-versions = ["1.19"]
