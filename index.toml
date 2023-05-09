@@ -9,6 +9,10 @@ file = "config/puzzle.json"
 hash = "8a6ed0c5104d7967aa1172997a5da914282bdad5e4ee56fd74393b9da48089a2"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "ec2468cce2228be94f552ef53f14dcb223a1b44c4398308a9906f08a46037085"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "a5efbb8def4d08abf4f930ea494824184649bdfd082921d7956b25ed52796153"
 metafile = true
