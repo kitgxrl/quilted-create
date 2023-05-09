@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-goggles.pw.toml"
-hash = "786613597d81f8a32258b8fb3b70c88449501cd71c294ed09fd85a4b6ca30aca"
+hash = "447029e35896dc6782f00be271bcea95d61f7f11cff7eafe436c008e62f132e2"
 metafile = true
 
 [[files]]
