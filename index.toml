@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f38dde3007cf1a50f361ace86f35553e0c5dfc02baee18250750b40709ac0e77"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "a5efbb8def4d08abf4f930ea494824184649bdfd082921d7956b25ed52796153"
 metafile = true
